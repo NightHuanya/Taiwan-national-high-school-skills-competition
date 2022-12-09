@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "p51 第二次", "p51 第二次\p51 第二次.vbproj", "{A9D76448-F57C-441E-B274-915B5BBBCC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D76448-F57C-441E-B274-915B5BBBCC8E}.Debug|x86.ActiveCfg = Debug|x86
+		{A9D76448-F57C-441E-B274-915B5BBBCC8E}.Debug|x86.Build.0 = Debug|x86
+		{A9D76448-F57C-441E-B274-915B5BBBCC8E}.Release|x86.ActiveCfg = Release|x86
+		{A9D76448-F57C-441E-B274-915B5BBBCC8E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
